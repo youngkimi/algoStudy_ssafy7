@@ -24,7 +24,7 @@
             <a href="https://github.com/youngkimi">
               <img src="https://github.com/youngkimi.png" width="100">
               <br />
-              <b>권유경</b>
+              <b>김영섭</b>
             </a>
         </td>
         <td style="min-width: 150px;">
