@@ -2,6 +2,7 @@
 
 **스터디 일정 : 매주 화요일 9시 온라인(ZOOM)**
 
+
 ## 🙌 팀원
 
 <table align="center">
@@ -44,12 +45,24 @@
     </tr>
 </table>
 
+## 🔗 외부링크
+
+- [👨🏻‍💻 스터디 노션, 벌금 아카이브](https://www.notion.so/edujihye21/aa2b5cc104b04bb5b81453ca6dccc502?p=0a38982a05b54586a201896161412407&pm=s)
+- [📕 백준](https://www.acmicpc.net/)
+- [📕 솔브닥](https://solved.ac/)
+- [📕 SWEA](https://swexpertacademy.com/main/main.do)
+- [📕 정올](https://www.jungol.co.kr/)
+- [📕 프로그래머스](https://school.programmers.co.kr/learn/challenges?order=acceptance_desc)
+
+
 ## 📌 스터디 그라운드 룰
 
 - 매주마다 할당된 n문제를 `자바`로 풀고, PR로 글을 작성해 스터디 시간에 풀이를 공유합니다.
-- 자바로 풀기 힘든 문제는 익숙한 언어로 풀되, 스터디 시간에 코드를 설명해주세요.
+- 자바로 풀기 힘든 문제는 익숙한 언어로 풀되, 스터디 시간에 해당 코드를 설명해주세요.
 - 다른 팀원들께서는 문제를 풀고 코드리뷰를 진행해주시면 됩니다.
-> 레포지토리 fork 후 - git clone - 내 이름의 브런치로 이동 - 풀고 PR 날리기 - 스터디 및 코드리뷰 진행되면 머지   
+> 레포지토리 fork 후 - git clone - 내 이름의 브런치로 이동 - 풀고 PR 날리기 - 스터디 및 코드리뷰 진행되면 머지
+
+스터디 하면서 협의할 부분이 많으니 제안 많이 많이 해주세용
 
 ## 📌 벌금 규칙
 
@@ -66,3 +79,73 @@
 천재지변으로 인한 상황 이외는 모두 사전에 알린 경우에만 인정합니다.
 
 </aside>
+
+## 📌 커밋 & PR 룰
+
+- 1. fork한 내 레포지토리 내에서 본인 이름의 브런치로 switch후, 풀 문제가 여러개라면 문제별로 하위 branch를 생성하여 문제를 풀고 커밋, 푸시합니다.
+- 2. 이후 원본 Repo의 main 브랜치에 병합하기 위해 PR 양식에 맞게 PR을 작성해주시면 됩니다. 
+
+```
+    2문제를 푼다고 가정할시 git 명령어 플로우
+    
+    git clone 포크한Repo
+    cd 해당 폴더
+    git switch 내이름
+    git switch 문제1
+    git add .
+    git commit -m "[남준] 백준_1234"
+    git push origin 문제1 
+    git switch 내이름
+    git switch 문제2
+    git add .
+    git commit -m "[남준] 프로그래머스_싸피 탈출"
+    git push origin 문제2
+    git switch 내이름
+    
+    => 푸시 완료후 깃허브에 원본 레포지토리의 main 브랜치로 문제1, 문제2 PR 날리기
+
+    브랜치 왔다갔다 하는게 귀찮아도 나중에 프젝할때 안쓸수가 없으니 꼭 적응하시길.... 
+```
+- 문제가 얼마없고 문제마다 브랜치를 파는것이 귀찮으시다면, 내 이름으로 된 branch에서 모두 작업하신 후, 하나의 PR에 N 문제 모두 설명을 넣어주세요. 제목은 `[남준] 백준_1234 외 N문제` 와 같은 양식으로 적어주시면 됩니다.
+
+```
+    2문제를 푼다고 가정할시 git 명령어 플로우
+    
+    git clone 포크한Repo
+    cd 해당 폴더
+    git switch 남준
+    git add .
+    git commit -m "[남준] 백준_1234"
+    git add .
+    git commit -m "[남준] 프로그래머스_싸피 탈출"
+    git push origin 남준
+    
+    => 푸시 완료후 깃허브에 원본 레포지토리의 main 브랜치로 단일 PR 날리기
+```
+
+
+- 커밋명과 PR의 제목은 **[작성자] 플랫폼_문제번호(문제명)**으로 통일해주세요.
+
+```
+    git commit -m "[남준] 백준_1234"
+    git commit -m "[남준] 프로그래머스_싸피 탈출"
+```
+
+- 단순 파일 제거, 파일명 변경 등의 경우 별도의 룰 없이 **간략히 의도를 명시**해주세요.
+```
+    git commit -m "[남준] 1139번 파일명 오타 수정"
+```
+
+- main 브랜치의 변동으로 commit, push 할떄 pull 먼저 받으라는 명령어가 뜨는 경우
+
+```bash
+    git pull origin main
+```
+
+## 📌 꿀팁
+
+- CLI로 타자치는게 귀찮다면...
+> https://www.gitkraken.com/
+
+GUI로 커밋하기 쌉가능
+
