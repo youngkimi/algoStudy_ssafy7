@@ -142,6 +142,16 @@
     git pull origin main
 ```
 
+- fork 한 레포지토리와 원본 레포지토리 동기화
+```
+(포크한 레포 클론 후, 로컬의 main 브랜치에서)
+git remote add upstream https://github.com/NamjunKim12/algoStudy_ssafy7.git
+git fetch upstream 
+git merge upstream/main
+git push origin main 
+```
+
+
 ## 📌 꿀팁
 
 - CLI로 타자치는게 귀찮다면...
