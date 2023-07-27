@@ -95,22 +95,20 @@
 - 1. fork한 내 레포지토리 내에서 본인 이름의 브런치로 switch후, 풀 문제가 여러개라면 문제별로 하위 branch를 생성하여 문제를 풀고 커밋, 푸시합니다.
 - 2. 이후 원본 Repo의 main 브랜치에 병합하기 위해 PR 양식에 맞게 PR을 작성해주시면 됩니다. 
 
-```
+```bash
     2문제를 푼다고 가정할시 git 명령어 플로우
     
-    git clone 포크한Repo
-    cd 해당 폴더
-    git switch 내이름
-    git switch 문제1
+    git branch 문제1 //문제1 branch 생성
+    git switch 문제1 //생성된 branch로 전환
     git add .
     git commit -m "[남준] 백준_1234"
-    git push origin 문제1 
-    git switch main
-    git switch 문제2
+    git push origin 문제1 //문제1 branch에 push
+
+    git branch 문제2 //문제2 branch 생성
+    git switch 문제2 //생성된 branch로 전환
     git add .
     git commit -m "[남준] 프로그래머스_싸피 탈출"
-    git push origin 문제2
-    git switch main
+    git push origin 문제2 //문제2 branch에 push
     
     => 푸시 완료후 깃허브에 원본 레포지토리의 main 브랜치로 문제1, 문제2 PR 날리기
 
