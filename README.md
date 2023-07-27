@@ -43,7 +43,7 @@
               <img src="https://github.com/ms-7365.png" width="100">
               <br />
               <b>현민수</b>
-            <br/><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=" widt="100px">
+            <br/><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=alstn0910" widt="100px">
             </a> 
         </td>
     </tr>
