@@ -11,6 +11,7 @@
               <img src="https://github.com/yukyung531.png" width="100">
               <br />
               <b>권유경</b>
+            <br/><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=" widt="100px">
             </a>
         </td>
         <td style="min-width: 150px;">
@@ -18,6 +19,7 @@
               <img src="https://github.com/namjunkim12.png" width="100">
               <br />
               <b>김남준</b>
+            <br/><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=" widt="100px">
             </a> 
         </td>
         <td style="min-width: 150px;">
@@ -25,6 +27,7 @@
               <img src="https://github.com/youngkimi.png" width="100">
               <br />
               <b>김영섭</b>
+            <br/><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=" widt="100px">
             </a>
         </td>
         <td style="min-width: 150px;">
@@ -32,6 +35,7 @@
               <img src="https://github.com/YuKyung-Chung.png" width="100">
               <br />
               <b>정유경</b>
+            <br/><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=jyk0129" widt="100px">
             </a> 
         </td>
         <td style="min-width: 150px;">
@@ -39,6 +43,7 @@
               <img src="https://github.com/ms-7365.png" width="100">
               <br />
               <b>현민수</b>
+            <br/><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=" widt="100px">
             </a> 
         </td>
     </tr>
