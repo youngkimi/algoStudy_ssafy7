@@ -19,7 +19,7 @@
               <img src="https://github.com/namjunkim12.png" width="100">
               <br />
               <b>김남준</b>
-            <br/><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=" widt="100px">
+            <br/><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=wrasf175" widt="100px">
             </a> 
         </td>
         <td style="min-width: 150px;">
