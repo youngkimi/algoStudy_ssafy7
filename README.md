@@ -27,7 +27,7 @@
               <img src="https://github.com/youngkimi.png" width="100">
               <br />
               <b>김영섭</b>
-            <br/><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=" widt="100px">
+            <br/><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=youngkimi" widt="100px">
             </a>
         </td>
         <td style="min-width: 150px;">
