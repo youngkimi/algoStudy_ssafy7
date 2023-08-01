@@ -65,7 +65,7 @@
 |:------:|:---:|
 |1주차|자율 문제 풀이|
 |2주차|(필수) [Magnetic(D3)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14hwZqABsCFAYD&categoryId=AV14hwZqABsCFAYD&categoryType=CODE&problemTitle=magnetic&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1),[가랏! RC카(D2)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PjMgaALgDFAUq) + (선택) 자율 문제 풀이, 알고리즘 학습|
-|3주차|미정|
+|3주차|[프로그래머스 고득점 kit 완전탐색 유형](https://school.programmers.co.kr/learn/courses/30/parts/12230) + (선택) 기타 플랫폼 완전탐색 관련 문제|
 
 </div>
 
