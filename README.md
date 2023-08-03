@@ -102,7 +102,8 @@
 
 ```bash
     2문제를 푼다고 가정할시 git 명령어 플로우
-    
+    git pull origin main //커밋하기 전에 main 브랜치 내용 pull 먼저 받아오기
+
     git branch 문제1 //문제1 branch 생성
     git switch 문제1 //생성된 branch로 전환
     git add .
