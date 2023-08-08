@@ -61,11 +61,12 @@
 ## 📌 주차별 문제목록
 <div align='center'>
     
-|제목|내용|
+|주차|풀 문제|
 |:------:|:---:|
 |1주차|자율 문제 풀이|
 |2주차|(필수) [Magnetic(D3)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14hwZqABsCFAYD&categoryId=AV14hwZqABsCFAYD&categoryType=CODE&problemTitle=magnetic&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1),[가랏! RC카(D2)](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PjMgaALgDFAUq) + (선택) 자율 문제 풀이, 알고리즘 학습|
-|3주차|[프로그래머스 고득점 kit 완전탐색 유형](https://school.programmers.co.kr/learn/courses/30/parts/12230) + (선택) 기타 플랫폼 완전탐색 관련 문제|
+|3주차|(필수)[프로그래머스 고득점 kit 완전탐색 유형](https://school.programmers.co.kr/learn/courses/30/parts/12230) + (선택) 기타 플랫폼 완전탐색 관련 문제|
+|4주차|(필수)[프로그래머스 고득점 kit 완전탐색 유형]([https://school.programmers.co.kr/learn/courses/30/parts/12230)] + (선택) 이번주 본인 목표에 적합한 문제풀이|
 
 </div>
 
@@ -74,10 +75,10 @@
 
 ## 📌 스터디 그라운드 룰
 
-- 매주마다 정한 공통 2문제를 `자바`로 풀고, PR로 글을 작성해 스터디 시간에 풀이를 공유합니다.
+- 매주마다 정한 필수문제 + 선택문제를 `자바`로 풀고, PR로 글을 작성해 스터디 시간에 풀이를 공유합니다.
 - 자바로 풀기 힘든 문제는 익숙한 언어로 풀되, 스터디 시간에 해당 코드를 설명해주세요. 문제를 풀지 못하셨어도 부담 갖지 말고 노력해주세요.
 - 공통문제는 팀원들이 코드를 볼 수 있게 **월요일 23:59분 까지 풀고 PR남겨주시고**, 다른 팀원들께서는 코드리뷰를 진행해주시면 됩니다.
-- 공통문제 2문제는 필수로 풀이과정을 공유하고, 이외의 알고리즘 학습 내용이나 인상깊었던 문제를 스터디 시간에 공유해주세요.
+- 공통문제는 필수로 풀이과정을 공유하고, 이외의 알고리즘 학습 내용이나 인상깊었던 문제를 스터디 시간에 공유해주세요.
 
 ## 📌 벌금 규칙
 
