@@ -1,6 +1,7 @@
+package Baekjoon;
 import java.io.*;
 import java.util.*;
-public class Main {
+public class baek_17298 {
     public static void main(String[] args) throws IOException {
         Scanner sc = new Scanner(System.in);
         int N = sc.nextInt();

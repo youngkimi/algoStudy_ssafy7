@@ -1,6 +1,5 @@
-package PG_Ä«Æê;
-
-class Solution {
+package Programmers;
+class PG_ì¹´íŽ« {
     public int[] solution(int brown, int yellow) {
         int[] answer = new int[2];
         int sum = brown + yellow;

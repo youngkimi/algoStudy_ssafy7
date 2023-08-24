@@ -1,8 +1,7 @@
-package D2;
-
+package SWEA;
 import java.util.Scanner;
 
-public class D2_1940 {
+public class SWEA_1940 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		int T = sc.nextInt();
