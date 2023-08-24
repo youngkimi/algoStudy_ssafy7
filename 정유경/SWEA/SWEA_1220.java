@@ -1,8 +1,7 @@
-package D3;
-
+package SWEA;
 import java.util.Scanner;
 
-public class D3_1220 {
+public class SWEA_1220 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 		for(int k=1; k<=10; k++) {

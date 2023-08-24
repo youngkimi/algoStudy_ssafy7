@@ -1,6 +1,7 @@
+package SWEA;
 import java.util.Scanner;
 
-public class Solution {
+public class SWEA_1216 {
 	public static void main(String[] args)  {
 		Scanner sc = new Scanner(System.in);
 		
