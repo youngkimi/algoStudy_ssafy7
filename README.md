@@ -35,7 +35,7 @@
               <img src="https://github.com/YuKyung-Chung.png" width="100">
               <br />
               <b>정유경</b>
-            <br/><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=jyk0129" widt="100px">
+            <br/><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=kadie" widt="100px">
             </a> 
         </td>
         <td style="min-width: 150px;">
