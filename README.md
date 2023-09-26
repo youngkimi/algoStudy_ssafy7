@@ -11,7 +11,7 @@
               <img src="https://github.com/yukyung531.png" width="100">
               <br />
               <b>권유경</b>
-            <br/><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=" widt="100px">
+            <br/><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=yukyung531" widt="100px">
             </a>
         </td>
         <td style="min-width: 150px;">
